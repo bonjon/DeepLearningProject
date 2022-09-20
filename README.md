@@ -1,2 +1,2 @@
 # DeepLearningProject
-This is the repository that contains the project of the Deep Learning and Applied Artificial Intelligence 2021/2022 course of Sapienza University of Rome. There are 2 notebooks one for the RotatedMNIST experiment and the other one for the CIFAR10 dataset.
+This is the repository that contains the project of the Deep Learning and Applied Artificial Intelligence 2021/2022 course of Sapienza University of Rome. There are 2 notebooks one for the RotatedMNIST experiment and the other one for the CIFAR10 dataset. The first notebook was executed on google colab and the second one only the training was executed with Kaggle because the GPU is faster.
